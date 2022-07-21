@@ -6,7 +6,7 @@
 
 ![ci](https://github.com/react-financial/react-financial-charts/workflows/ci/badge.svg)
 [![codecov](https://codecov.io/gh/reactivemarkets/react-financial-charts/branch/master/graph/badge.svg)](https://codecov.io/gh/reactivemarkets/react-financial-charts)
- [![GitHub license](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/react-financial/react-financial-charts/blob/master/LICENSE) [![npm version](https://img.shields.io/npm/v/react-financial-charts.svg?style=flat)](https://www.npmjs.com/package/react-financial-charts)
+[![npm version](https://img.shields.io/npm/v/react-financial-charts.svg?style=flat)](https://www.npmjs.com/package/react-financial-charts)
 
 Charts dedicated to finance.
 
@@ -59,10 +59,6 @@ The aim with this project is create financial charts that work out of the box.
 npm install react-financial-charts
 ```
 
-## Documentation
-
-[Stories](https://react-financial.github.io/react-financial-charts/)
-
 ## Contributing
 
 Refer to [CONTRIBUTING.md](./CONTRIBUTING.md)
@@ -72,7 +68,7 @@ This project is a mono-repo that uses [Lerna](https://lerna.js.org/) to manage d
 To get started run:
 
 ```bash
-git clone https://github.com/react-financial/react-financial-charts.git
+git clone https://github.com/Powerful2100/react-financial-charts.git
 cd react-financial-charts
 npm ci
 npm run build
@@ -102,7 +98,3 @@ npm start
 - [x] Remove all UNSAFE methods
 - [ ] Add documentation to storybook
 - [ ] Add full test suite
-
-## LICENSE
-
-[![FOSSA Status](https://app.fossa.com/api/projects/custom%2B13613%2Fgit%40github.com%3Areactivemarkets%2Freact-financial-charts.git.svg?type=large)](https://app.fossa.com/projects/custom%2B13613%2Fgit%40github.com%3Areactivemarkets%2Freact-financial-charts.git?ref=badge_large)
